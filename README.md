@@ -1,6 +1,6 @@
 # Node Weather App
 
-*created by* [**Jay Yunas**](https://jayyunas.com/)
+*created by* [***Jay Yunas***](https://jayyunas.com/)
 
 ## Description
 
@@ -15,8 +15,8 @@ This app is deployed to [Heroku] --> (https://weather.jayyunas.com/).
 - [Node.js](https://nodejs.org/en/) - JavaScript Runtime
 - [Express](https://expressjs.com/) - Server Framework
 - [Axios](https://github.com/axios/axios) - Promise-based HTTP requests
-- [MapQuest API](https://mapquest.com/) - Latitude and Longitude (Co-ordinates)
-- [OpenWeather](https://openweathermap.org/) - Weather Information
+- [MapBox API](https://mapbox.com/) - Latitude and Longitude (Co-ordinates)
+- [OpenWeather API](https://openweathermap.org/) - Weather Information
 - [ESLint](https://eslint.org/) - Linting Utility
 - [Heroku](https://weather.jayyunas.com/) - Cloud Application Platform
 
